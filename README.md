@@ -1,8 +1,7 @@
+<div align="center">
 # Hi!
 
-I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web and Mobile front-end).
-
-In 2023 I learned ReactJs, React-Native, and Javascript and I will start learning Flutter soon.
+I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web and Mobile front-end). I'm starting development but I love this so much !!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -13,11 +12,10 @@ In 2023 I learned ReactJs, React-Native, and Javascript and I will start learnin
     </a>
   </div>
 
-  I use : <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>, <img src=""/> and <img src="" />
+  I use
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 
-
-Technologie:
 
 # Web
 <div id="web-techno" align="center">
@@ -32,6 +30,7 @@ Technologie:
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)" />
 </div>
 
+
 # Mobile 
 
 <div id="mobile-techno" align="center">
@@ -39,7 +38,9 @@ Technologie:
 
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 
-  soon : <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  Training
+  
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 
 </div>
 
@@ -63,5 +64,6 @@ Technologie:
   </a>
 </div>
 
+</div>
 
 
