@@ -49,10 +49,9 @@ Contact
 
 <div id="contact" align="center">
 
-<div id="Gmail" text-align="center">
+<a href="mailto:pierre.antoniutti@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
-  : pierre.antoniutti@gmail.com
-</div>
+</a>
   
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
