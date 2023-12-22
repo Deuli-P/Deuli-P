@@ -19,7 +19,7 @@ In 2023 I learned ReactJs, React-Native, and Javascript and I will start learnin
 
 Technologie:
 
-Web
+# Web
 <div id="web-techno" align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
@@ -32,7 +32,7 @@ Web
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)" />
 </div>
 
-Mobile 
+# Mobile 
 
 <div id="mobile-techno" align="center">
   <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -44,7 +44,7 @@ Mobile
 </div>
 
 
-Contact 
+# Contact 
 
 <div id="contact" align="center">
 
