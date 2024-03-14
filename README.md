@@ -65,7 +65,7 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" />
 </a>
   
-  <a href="https://www.linkedin.com/in/pierre-antoniutti-a05b15111/">
+  <a href="https://www.linkedin.com/in/pierre-antoniutti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~0111f8211759dc6ba3">
