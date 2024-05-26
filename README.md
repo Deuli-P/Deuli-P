@@ -39,6 +39,14 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
   
 </div>
 
+#Design
+
+<div id='design-logiciel' align="center">
+
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
+
+</div>
 
 # Mobile 
 
@@ -49,7 +57,9 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
 
   Training
   
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 
@@ -75,5 +85,6 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
 </div>
 
 </div>
+
 
 
