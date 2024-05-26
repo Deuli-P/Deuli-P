@@ -1,7 +1,10 @@
 <div align="center">
 # Hi!
 
-I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web and Mobile front-end). I'm starting development but I love this so much !!
+
+I'm Pierre Antoniutti, a French Developer, I'm a Fullstack Developer web!
+
+I am looking for a Web Developer Apprenticeship in Paris, France for 12 months. 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -15,9 +18,11 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
   I use
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
+<br clear="both">
 
 # Web
 <div id="web-techno" align="center">
+  
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,7 +44,9 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
   
 </div>
 
-#Design
+<br clear="both">
+
+# Design
 
 <div id='design-logiciel' align="center">
 
@@ -48,6 +55,8 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
 
 </div>
 
+<br clear="both">
+
 # Mobile 
 
 <div id="mobile-techno" align="center">
@@ -55,7 +64,9 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
 
   <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" />
 
-  Training
+<br clear="both">
+
+ # Training
   
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -85,6 +96,7 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
 </div>
 
 </div>
+
 
 
 
