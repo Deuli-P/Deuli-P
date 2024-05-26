@@ -15,8 +15,6 @@ I'm Pierre Antoniutti, a French Developer, I'm a Cross Platform Developer ( Web 
   I use
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Deuli-P&theme=violet-punch)](https://git.io/streak-stats)
-
 
 # Web
 <div id="web-techno" align="center">
