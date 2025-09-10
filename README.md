@@ -2,9 +2,7 @@
 # Hi!
 
 
-I'm Pierre Antoniutti, a French Developer, I'm a Fullstack Developer web!
-
-I am looking for a Web Developer Apprenticeship in Paris, France for 12 months. 
+I'm Pierre Antoniutti, a French Developer, I'm a Fullstack Developer web and mobile!
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
